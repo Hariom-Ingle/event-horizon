@@ -3,6 +3,11 @@
 
 Welcome to the **Service Finder Platform**! This project is built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with additional styling from **Tailwind CSS** to deliver a modern, responsive, and user-friendly interface. 🚀
 
+ ## 📽️ Demo
+
+Watch the live demo here: [Click to Watch](https://youtu.be/xMmzMOa9i2E)
+
+ 
 ![Screenshot 2024-05-24 160421](https://github.com/Hariom-Ingle/Service-Management-React/assets/114019854/b30a01e0-adeb-4b31-9d40-732624a16bf1)
 
 
